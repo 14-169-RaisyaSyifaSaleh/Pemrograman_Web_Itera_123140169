@@ -8,11 +8,12 @@ Semua data tersimpan otomatis di localStorage, jadi tidak hilang walau halaman d
 🛠️ Teknologi yang Digunakan
 
 - HTML5 → Struktur halaman
-- 
+
 - CSS3 → Tampilan dan layout
-- 
+ 
 - JavaScript (ES6) → Logika aplikasi, manipulasi DOM, dan penyimpanan localStorage
   
+
 
 💡 Cara Menjalankan
 
@@ -31,6 +32,8 @@ Tombol Edit / Hapus / Selesai memicu fungsi JS yang memperbarui data dan tampila
 Filter dan Pencarian bekerja dengan memfilter array sebelum ditampilkan ulang.
 
 Setiap perubahan otomatis disimpan agar data tetap ada walau browser ditutup.
+
+
 
 
 🌟 Fitur-Fitur
